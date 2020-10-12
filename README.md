@@ -1,0 +1,2 @@
+# Blogreate
+Blog creating platform
